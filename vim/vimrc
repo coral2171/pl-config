@@ -1,0 +1,21 @@
+" Essential
+set nocompatible
+syntax on
+set encoding=utf-8
+set history=128
+set mouse=a
+
+" UI
+set number
+set showmatch
+
+" Indentation
+set autoindent
+set tabstop=4
+set shiftwidth=4
+
+" Search
+set hlsearch
+set incsearch
+set ignorecase
+set smartcase
