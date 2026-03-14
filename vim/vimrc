@@ -1,6 +1,7 @@
 " Essential
 set nocompatible
 syntax on
+set viminfofile=NONE
 set encoding=utf-8
 set history=128
 set mouse=a
