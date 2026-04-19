@@ -17,7 +17,7 @@
     "modules-right": [
         //"mpd",
         //"idle_inhibitor",
-        //"pulseaudio",
+        "pulseaudio",
         //"network",
         //"power-profiles-daemon",
         //"cpu",
@@ -112,7 +112,7 @@
     "clock": {
         // "timezone": "America/New_York",
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
-		"format": "{:%A | %Y-%m-%d | %H:%M}",
+		"format": " {:%A %Y-%m-%d %H:%M} ",
 		"format-alt": "{:%Y-%m-%d}"
     },
     "cpu": {
