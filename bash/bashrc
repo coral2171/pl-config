@@ -1,0 +1,4 @@
+# Shell
+alias ls='ls --color=auto'
+alias grep='grep --color=auto'
+PS1='\[\e[92m\][\D{%Y-%m-%d}\[\e[0m\] \[\e[92m\]\t\[\e[0m\] \[\e[92m\]\u@\h\[\e[0m\] \[\e[92;1m\]\w\[\e[22m\]]\n\$\[\e[0m\] '
